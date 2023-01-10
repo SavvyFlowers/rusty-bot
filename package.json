@@ -47,7 +47,7 @@
     "discord-api-types": "0.37.12",
     "discord.js": "14.6.0",
     "dotenv": "16.0.3",
-    "firebase-admin": "11.1.0",
+    "firebase-admin": "11.4.1",
     "mersenne-twister": "1.1.0"
   },
   "devDependencies": {
